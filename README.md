@@ -1,10 +1,16 @@
 # Opacity 🔎
 
+<p>
+<a href="https://www.npmjs.com/opacity"><img src="https://img.shields.io/npm/v/opacity.svg" alt="NPM Version" /></a>
+<a href="https://www.npmjs.com/opacity"><img src="https://img.shields.io/npm/l/opacity.svg" alt="Package License" /></a>
+<a href="https://www.npmjs.com/opacity"><img src="https://img.shields.io/npm/dm/opacity.svg" alt="NPM Downloads" /></a>
+</p>
+
 ## Blurb
 
 A simple tool used to progressively reduce the `opacity` _(get it?)_ of a website from any given date. 
 
-Common reasons to use include:
+### Common reasons to use include:
 * A client has promised to pay your final instalment, but you don't trust that they'll deliver.
 * You'd like your website to have an expiry date, and you're actually desperate enough that `CSS` is your only option to ensure it can't be used.
 * You're not quite sure how `CSS transition` works, and you can't think of a single better way to have your website fade out.
