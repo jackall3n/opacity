@@ -79,3 +79,12 @@ type Duration = {
   seconds?: number
 }
 ```
+
+
+## Issues
+Perhaps you think you've found an issue, and you're certain it must be with this package? Impossible. The _only_ possible outcome is you've done something wrong. We follow a strong support ethic of it-works-on-my-machine. 
+
+If you require assistance, be sure to ask for help on [StackOverflow](https://stackoverflow.com/) where someone can ignore your question and explain to you how stupid you are. 
+
+## Migrating from v1 to v9
+In order to upgrade simply install v9. There's absolutely 0 code changes between v1 and v9, we just think v9 sounded cooler.
