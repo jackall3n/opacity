@@ -4,6 +4,13 @@
   "main": "index.js",
   "types": "index.d.ts",
   "license": "MIT",
+  "repository": "https://github.com/jackall3n/opacity",
+  "homepage": "https://github.com/jackall3n/opacity#readme",
+  "readme": "https://github.com/jackall3n/opacity#readme",
+  "scripts": {
+    "build": "tsc",
+    "prepublish": "yarn build"
+  },
   "devDependencies": {
     "@types/node": "^16.11.7",
     "typescript": "^4.5.2"
