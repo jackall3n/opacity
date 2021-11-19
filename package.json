@@ -1,5 +1,7 @@
 {
   "name": "opacity",
+  "description": "A simple tool used to progressively reduce the opacity (get it?) of a website from any given date.",
+  "keywords": ["opacity", "css", "pain", "html"],
   "version": "9.68.1",
   "main": "index.js",
   "types": "index.d.ts",
