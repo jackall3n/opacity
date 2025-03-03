@@ -16,13 +16,13 @@
   "readme": "https://github.com/jackall3n/opacity#readme",
   "scripts": {
     "build": "tsc",
-    "prepublish": "yarn build"
+    "prepublish": "pnpm build"
   },
   "devDependencies": {
-    "@types/node": "^22.0.0",
-    "typescript": "^5.0.0"
+    "@types/node": "^22.13.9",
+    "typescript": "^5.8.2"
   },
   "dependencies": {
-    "date-fns": "^4.0.0"
+    "date-fns": "^4.1.0"
   }
 }
